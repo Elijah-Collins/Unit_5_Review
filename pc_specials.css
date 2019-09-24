@@ -28,12 +28,12 @@ img{
 
 /* Horizontal Navigation Styles */
 
-nav{
+nav > li{
     display: block;
     float: left;
     width: 16.66%;
 }
-nav.Newroad{
+nav.Newroad > link{
     display:block;
 }
 
