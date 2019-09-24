@@ -80,6 +80,11 @@ div#awardList{
     height:650px;
     overflow: auto;
 }
+div.awards{
+    position: absolute;
+    width:30%;
+}
+
 
 /* Footer Styles */
 
