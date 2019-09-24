@@ -28,16 +28,23 @@ img{
 
 /* Horizontal Navigation Styles */
 
-nav > ul > li{
+nav.horizontal > ul > li{
     float: left;
     width: 16.66%;
     display: block;
 }
-nav.Newroad > link{
+nav a{
     display:block;
 }
 
 /* Row Styles */
+
+div.newRow{
+    width: 100%;
+    clear: both;
+    content: "";
+    display:table;
+}
 
 
 
