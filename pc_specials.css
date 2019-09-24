@@ -45,8 +45,12 @@ div.newRow{
     content: "";
     display:table;
 }
-
-
+div[class^="col-"]{
+    float: left;
+    padding:2%;
+    box-sizing: border-box;
+}
+div
 
 
 /* Column Styles */
